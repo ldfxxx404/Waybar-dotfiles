@@ -6,7 +6,7 @@
 }
 
 window#waybar {
-    background-color: rgba(43, 48, 59, 0); /*тут прозрачность*/
+    background-color: rgba(47,53,59, 0); /*тут прозрачность*/
     border-bottom: 3px solid rgba(100, 114, 125, 0);
     color: #bd93f9;
     transition-property: background-color;
@@ -160,7 +160,8 @@ label:focus {
 }
 
 #backlight {
-    background-color: #90b1b1;
+    background-color: transparent;
+	color: #30BA8F
 }
 
 #network {
