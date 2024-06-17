@@ -1,3 +1,3 @@
-**Prewiew**
+**Preview**
 ---
 ![Preview](Example.png)
