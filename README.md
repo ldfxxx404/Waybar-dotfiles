@@ -1,1 +1,3 @@
-My Waybar configuration.
+**Prewiew**
+---
+![Preview](Example.png)
